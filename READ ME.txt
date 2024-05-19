@@ -1,0 +1,19 @@
+Here is the first version on this project:
+
+ I developed this structure in the most optimal way in my opinion, and tried with the short time that I have to make the code clean as much as possible, you can check all the layers
+ and how I make it responnsible for any adds like if I want to translate the application to any language, add map, ..etc
+Using bloc, sqlite, dio, getx, injectable,firebase and many useful library, I tried to develop my structure to the most.
+This structure is able to develop in any way you demand. 
+
+what I accomplished in this version:
+- login with the dummy users mentioned in the assessment.
+- get the tasks
+-save the tasks locally in sqlite db and can access to it even if the telephone is not connected to hte internet.
+-add task
+-update the state of the task ( if it's completed or not)
+-delete the task.
+-pagination.
+-unit test for adding a new task to the local sqlite db.
+
+
+Thanks for ur time :) 
